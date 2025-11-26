@@ -23,5 +23,5 @@
       ✅ slow to start
 
       
-  - Definition of Dockerization
+  - Definition of Dockerization<br>
     **Dockerization is the process of packaging an application along with its required libraries, configurations, and dependencies into a lightweight container so it can run consistently in any environment. It shares the host OS.**
