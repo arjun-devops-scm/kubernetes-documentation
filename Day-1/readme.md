@@ -42,3 +42,86 @@ Dockerization is the process of packaging an application along with its required
 
 </details>
 
+<details>
+  <summary><b>Docker Commands (Containers, Ports, Force Delete, Volumes, Networks, Cleanup)</b></summary>
+
+### ✅ `docker run nginx`
+Runs a container using the `nginx` image.
+
+### ✅ `docker run -d <image-name>`
+Runs a container in background mode (detached).
+
+### ✅ `docker run -d -p 8080:80 <image-name>`
+Runs a container with port mapping, connecting host port **8080** to container port **80**.
+
+### ✅ `docker stop <container_id_or_name>`
+Stops a running container gracefully.
+
+### ✅ `docker start <container_id_or_name>`
+Starts a previously stopped container.
+
+### ✅ `docker restart <container_id_or_name>`
+Restarts a container in a single command.
+
+### ✅ `docker rm <container_id_or_name>`
+Removes a stopped container.
+
+### ✅ `docker rm -f <container_id_or_name>`
+Force deletes a running container (kills + removes).
+
+---
+
+### ✅ `docker images`
+Shows all locally stored Docker images.
+
+### ✅ `docker rmi <image_id_or_name>`
+Removes an image (only if unused).
+
+### ✅ `docker rmi -f <image_id_or_name>`
+Force deletes an image even if containers depend on it.
+
+---
+
+### ✅ `docker volume ls`
+Lists all Docker volumes.
+
+### ✅ `docker volume create <volume-name>`
+Creates a persistent storage volume.
+
+### ✅ `docker volume rm <volume-name>`
+Deletes a volume.
+
+### ✅ `docker volume prune`
+Deletes all unused volumes.
+
+---
+
+### ✅ `docker network ls`
+Lists all Docker networks.
+
+### ✅ `docker network create <network-name>`
+Creates a custom network.
+
+### ✅ `docker network rm <network-name>`
+Deletes a network.
+
+### ✅ `docker network inspect <network-name>`
+Shows network details (IP range, attached containers, driver, etc.).
+
+---
+
+### ✅ `docker system df`
+Shows disk usage by Docker components.
+
+### ✅ `docker system prune`
+Removes unused containers, networks, images (asks confirmation).
+
+### ✅ `docker system prune -a`
+Removes ALL unused images, not just dangling ones.
+
+### ✅ `docker system prune -a --volumes`
+Removes unused images, containers, networks AND volumes (maximum cleanup).
+
+</details>
+
+
