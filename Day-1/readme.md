@@ -22,7 +22,7 @@ Virtualization is a technology that allows you to create multiple virtual machin
 - ✅ needs more RAM & CPU
 - ✅ slow to start
 
-</details>
+ </details>
 
 
 
