@@ -1,2 +1,2 @@
 # Docker 
-![Screenshot](./Images/docker.png)
+![Docker](Images/docker.png)
