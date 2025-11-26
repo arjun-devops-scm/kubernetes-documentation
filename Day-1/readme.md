@@ -12,9 +12,9 @@
 
   🚀 Examples:
      Virtualization is like:<br>
-      setting up a full new house<br>
-      with its own bedroom, kitchen, bathroom, electricity<br>
-      even if you just want to make Maggi
+      ✅ setting up a full new house<br>
+      ✅ with its own bedroom, kitchen, bathroom, electricity<br>
+      ✅ even if you just want to make Maggi
 
   🚀 So a Virtual Machine has:<br>
       ✅ full operating system<br>
