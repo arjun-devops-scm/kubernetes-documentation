@@ -11,7 +11,7 @@
    **Virtualization is a technology that allows you to create multiple virtual machines on a single physical computer, where each virtual machine has its own operating system, resources, and environment. It isolates hardware.**
 
 🚀 Examples:
-     Virtualization is like:<br>
+    Virtualization is like:<br>
       ✅ setting up a full new house<br>
       ✅ with its own bedroom, kitchen, bathroom, electricity<br>
       ✅ even if you just want to make Maggi
@@ -19,8 +19,9 @@
 🚀 So a Virtual Machine has:<br>
       ✅ full operating system<br>
       ✅ heavy setup<br>
-      ✅ needs more RAM & CPU<br>  
+      ✅ needs more RAM & CPU<br> 
       ✅ slow to start
+
       
   - Definition of Dockerization
     **Dockerization is the process of packaging an application along with its required libraries, configurations, and dependencies into a lightweight container so it can run consistently in any environment. It shares the host OS.**
