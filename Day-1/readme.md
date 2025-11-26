@@ -24,6 +24,21 @@ Virtualization is a technology that allows you to create multiple virtual machin
 
  </details>
 
-      
-  - Definition of Dockerization<br>
-    **Dockerization is the process of packaging an application along with its required libraries, configurations, and dependencies into a lightweight container so it can run consistently in any environment. It shares the host OS.**
+<details>
+  <summary><b>Dockerization (click to expand)</b></summary>
+
+Dockerization is the process of packaging an application along with its required libraries, configurations, and dependencies into a lightweight container so it can run consistently in any environment. It isolates applications.
+
+#### 🚀 Examples: Dockerization is like:
+- ✅ bringing your own tiffin
+- ✅ you can eat anywhere without tension
+- ✅ same taste everywhere
+
+#### 🚀 So a Docker Container has:
+- ✅ only the app and what it needs
+- ✅ lightweight setup
+- ✅ uses less RAM & CPU
+- ✅ starts in seconds
+
+</details>
+
