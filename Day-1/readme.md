@@ -11,9 +11,9 @@
    **Virtualization is a technology that allows you to create multiple virtual machines on a single physical computer, where each virtual machine has its own operating system, resources, and environment. It isolates hardware.**
 
   🚀 Examples:
-     Virtualization is like:
-      setting up a full new house 
-      with its own bedroom, kitchen, bathroom, electricity
+     Virtualization is like:<br>
+      setting up a full new house<br>
+      with its own bedroom, kitchen, bathroom, electricity<br>
       even if you just want to make Maggi
 
   🚀 So a Virtual Machine has:<br>
