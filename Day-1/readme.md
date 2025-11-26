@@ -16,10 +16,10 @@
       with its own bedroom, kitchen, bathroom, electricity
       even if you just want to make Maggi
 
- 🚀 So a Virtual Machine has:
-      ✅ full operating system
-      ✅ heavy setup
-      ✅ needs more RAM & CPU
+ 🚀 So a Virtual Machine has: //
+      ✅ full operating system //
+      ✅ heavy setup //
+      ✅ needs more RAM & CPU //
       ✅ slow to start
       
   - Definition of Dockerization
