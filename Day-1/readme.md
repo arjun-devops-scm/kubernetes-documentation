@@ -6,6 +6,6 @@
 
 # What is the difference between Virtualization and  Dockerization
 
-   *Definition of Virtualization
+   # Definition of Virtualization
       **Virtualization is a technology that allows you to create multiple virtual machines on a single physical computer, where each virtual machine has its own operating system, resources, and environment. It isolates hardware.**
       
